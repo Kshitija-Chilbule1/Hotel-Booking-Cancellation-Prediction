@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Hotel-Booking-Cancellation-Prediction/mlruns/0/c4beb851380a4b7690c80e4db4702839/artifacts
+end_time: 1749885827288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4beb851380a4b7690c80e4db4702839
+run_name: serious-slug-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749885815523
+status: 3
+tags: []
+user_id: kshit
