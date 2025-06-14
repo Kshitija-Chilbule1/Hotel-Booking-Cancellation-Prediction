@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+
+golden-toolbox-460604-n2-ee77989c5aba.json
+
 # Distribution / packaging
 .Python
 build/
